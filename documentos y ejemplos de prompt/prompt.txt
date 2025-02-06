@@ -1,0 +1,25 @@
+Ejemplos de Prompt, para interactuar con la Inteligencia Artificial.
+
+Tu como un experto en Base de datos relacionales, me puedes explicar lo que hace este script de postgresql y además me indicas si existe algún error en su sintaxis: 
+SELECT  empresa.rut AS RutEmpresa,empresa.nombre AS NombreEmpresa,cliente.rut AS RutCliente,cliente.nombre AS NombreCliente FROM Empresa CROSS JOIN Cliente
+ON Empresa.rut = Cliente.rut; 
+---------------------------------------------------------------------------------------------------
+Tu como un experto en base de datos postgresql, me puedes indicar cual es el error en este código: 
+create table enviado
+select * from pedidos where enviado = 'SI'; 
+---------------------------------------------------------------------------------------------------
+Suministrando una sección de la página. (Una imagen, creada con figma).
+
+Eres un experto tanto de ux/ui y ademas eres un experto en desarrollo web front end, con la imagen suministrada crear la sección de la página web, utilizando bootstrap y si deseas crear tu propio código CSS, procura que el código sea lo mas optimizado y simple posible haz que tenga un diseño sencillo, moderno, responsivo y minimalista, utiliza imágenes aleatorias tomadas de plataformas como pixabay, unsplash o pixels o generandolas tu mismo.
+---------------------------------------------------------------------------------------------------
+Eres un experto tanto de ux/ui y ademas eres un experto en desarrollo web front end, me puedes crear un programa con html, css de unas nubes blancas sobre un cielo azul, generando a las mismas animación de desplazamiento de derecha a izquierda por medio del lenguaje de programación javascript.
+---------------------------------------------------------------------------------------------------
+Tu como un experto en diseño curricular, me puedes ayudar a crear una propuesta para el pesun de estudios o la malla curricular para el curso: especialista en IA y Ciencia de Datos.
+---------------------------------------------------------------------------------------------------
+Crear imagen
+Crear una imagen tipo foto profesional, sobre el impacto de la IA en la educación universitaria.
+---------------------------------------------------------------------------------------------------
+
+
+
+
